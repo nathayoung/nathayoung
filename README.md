@@ -1,8 +1,10 @@
 # Welcome to my GitHub!
 
-### Current Position: Senior Data Analyst at Western Carolina University
+Current Position: **Senior Data Analyst** at [Western Carolina University](wcu.edu)
 
-### Current Project: NC Data Dashboard -> [Website](https://www.wcu.edu/engage/regional-development/data-dashboard.aspx) | [Tableau Public](https://public.tableau.com/profile/wnced#!/) | [Code Repository](https://github.com/NC-Data-Dashboard/DataDashboard_Public)
+Current Project: **NC Data Dashboard** -> [Website](https://www.wcu.edu/engage/regional-development/data-dashboard.aspx) | [Tableau Public](https://public.tableau.com/profile/wnced#!/) | [Code Repository](https://github.com/NC-Data-Dashboard/DataDashboard_Public)
+
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=nathayoung&show_icons=true&hide_border=true)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathayoung"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
