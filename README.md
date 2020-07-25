@@ -8,6 +8,10 @@ Education: **Senior** studying [Computer Information Systems](https://www.wcu.ed
 
 Current Extracurricular Learning: **Data Science** -> Johns Hopkins University via [Coursera](https://www.coursera.org/programs/143e430b-7a14-43ac-8f00-93e3bc9b1e38?collectionId=&productId=Q7ft0KTtEeWVehLHxyUMyQ&productType=s12n&showMiniModal=true)
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathayoung/)
 [![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
 [![Tableau](https://img.shields.io/badge/-TABLEAU-B7410E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/nathayoung#!/)
