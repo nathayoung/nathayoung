@@ -8,8 +8,7 @@ Education: **Senior** studying [Computer Information Systems](https://www.wcu.ed
 
 Current Extracurricular Learning: **Data Science** -> Johns Hopkins University via [Coursera](https://www.coursera.org/programs/143e430b-7a14-43ac-8f00-93e3bc9b1e38?collectionId=&productId=Q7ft0KTtEeWVehLHxyUMyQ&productType=s12n&showMiniModal=true)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nathayoung"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.youracclaim.com/users/nathayoung/badges"><img src="https://img.shields.io/badge/Acclaim--_.svg?style=for-the-badge&logo=acclaim" alt="Acclaim"></a>
-  <a href="https://public.tableau.com/profile/nathayoung#!/"><img src="https://img.shields.io/badge/tableau--_.svg?style=for-the-badge&logo=tableau" alt="Talbeau"></a>
-  <a href="https://app.pluralsight.com/profile/nathayoung"><img src="https://img.shields.io/badge/pluralsight--_.svg?style=for-the-badge&logo=pluralsight" alt="Pluralsight"></a>
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathayoung/)
+[![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
+[![Tableau](https://img.shields.io/badge/-TABLEAU-B7410E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/nathayoung#!/)
+[![Pluralsight](https://img.shields.io/badge/-PLURALSIGHT-50C878?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/nathayoung)
