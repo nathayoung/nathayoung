@@ -6,6 +6,9 @@ When I am not working, I am a **Senior** studying [Computer Information Systems]
 
 Outside of school and work I am learning **Data Science** from Johns Hopkins University via [Coursera](https://www.coursera.org/programs/143e430b-7a14-43ac-8f00-93e3bc9b1e38?collectionId=&productId=Q7ft0KTtEeWVehLHxyUMyQ&productType=s12n&showMiniModal=true)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [![Resume](https://img.shields.io/badge/-RESUME-2e2e2e?style=for-the-badge&logo=resume&logoColor=white])](https://github.com/nathayoung/nathayoung/blob/master/Resume.md)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathayoung/)
 [![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
