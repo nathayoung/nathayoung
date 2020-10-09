@@ -4,13 +4,11 @@
 [![Tableau](https://img.shields.io/badge/-TABLEAU-B7410E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/nathayoung#!/)
 ***
 ### Relevant Experience
-*Senior Data Analyst* | NC Data Dashboard at Western Carolina University | May 2020 -> current
+*Senior Data Analyst* | Remote | NC Data Dashboard at Western Carolina University | May 2020 -> current
 
-*Junior Data Analyst/Lead Project Developer* | NC Data Dashboard at Western Carolina Univeristy | August 2019 -> May 2020 
-* Built automation tools in Python and SQL as Project Lead Developer for database rebuild project
-* Designed new update methods for the NC Data Dashboard, hosted by Western Carolina University
-* Increased speed of data updates for database by writing automation scripts in Python utilizing Python Pandas to wrangle and publish data for use by Tableau team
-* Collaborated with team members to complete short-term projects, such as monthly workbook updates, and long-term projects, such as building new databases
+*Junior Data Analyst/Lead Project Developer* | Remote | NC Data Dashboard at Western Carolina Univeristy | August 2019 -> May 2020 
+* Designed new update methods to decrease time required for data updates from hours to minutes by writing automation scripts in Python utilizing Python Pandas to wrangle and publish data for use by the Tableau team
+* Collaborated with team members via Zoom to complete short-term projects, such as monthly workbook updates, and long-term projects, such as building new databases
 * Prioritized weekly tasks to ensure for balanced workload among classwork and other jobs
 * Delegated tasks to others to help build future leaders and create a strong work environment
 ***
@@ -54,4 +52,4 @@ Leadership | National Outdoor Leadership School | July 2017
 ***
 To view additional experience and details, please view my LinkedIn profile.
 
-Current as of: *25 July 2020*
+Current as of: *9 October 2020*
