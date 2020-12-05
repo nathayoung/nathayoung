@@ -1,8 +1,10 @@
 # Welcome to my GitHub!
 
-Hi, I'm Nathan Young.  Currently, I am working as a **Senior Data Analyst** at [Western Carolina University](wcu.edu) on the [**NC Data Dashboard**](https://www.wcu.edu/engage/regional-development/data-dashboard.aspx).
+Hi, I'm Nathan Young.  Currently, I am looking for work.
 
-When I am not working, I am a **Senior** studying [Computer Information Systems](https://www.wcu.edu/learn/departments-schools-colleges/COB/academic-departments/acc-fin-is-law/cis.aspx) and Visual Data Analytics at Western Carolina University, on track to graduate in December 2020.  In my free time, I am learning C++, Go, and R with Pluralsight.
+I have recently graduated from Western Carolina University with a Bachelor's Degree in Computer Information Systems.
+
+In my free time, I am learning C++ and Go with Pluralsight.
 
 [![Resume](https://img.shields.io/badge/-RESUME-2e2e2e?style=for-the-badge&logo=resume&logoColor=white])](https://github.com/nathayoung/nathayoung/blob/master/Resume.md)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathayoung/)
