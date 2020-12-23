@@ -1,8 +1,6 @@
 # Welcome to my GitHub!
 
-Hi, I'm Nathan Young.  Currently, I am looking for work.
-
-I have recently graduated from Western Carolina University with a Bachelor's Degree in Computer Information Systems.
+Hi, I'm Nathan Young.  Currently, I work as an IT Engineer at Nissin Brake.
 
 In my free time, I am learning C++ and Go with Pluralsight.
 
