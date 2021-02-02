@@ -1,9 +1,4 @@
-# Nathan Young 
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathayoung/)
-[![Tableau](https://img.shields.io/badge/-TABLEAU-B7410E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/nathayoung#!/)
-
-***
+# Nathan Young [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathayoung/) [![Tableau](https://img.shields.io/badge/-TABLEAU-B7410E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/nathayoung#!/)
 
 ### Relevant Experience
 
