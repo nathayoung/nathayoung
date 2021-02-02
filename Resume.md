@@ -10,7 +10,7 @@
 
 ***
 
-### Relevant Certifications | [![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
+### Relevant Certifications [![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
 * Tableau Desktop Specialist Certification | April 2020
 
 ***
@@ -54,7 +54,7 @@ Leadership | National Outdoor Leadership School | July 2017
 
 ***
 
-### Relevant Coursework | [![Coursera](https://img.shields.io/badge/-COURSERA-0077B5?style=for-the-badge&logo=COURSERA&logoColor=white)](https://www.coursera.org/user/0f216ddea486002dd0ba0fbe76e503b9) [![Pluralsight](https://img.shields.io/badge/-PLURALSIGHT-50C878?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/nathayoung)
+### Relevant Coursework [![Coursera](https://img.shields.io/badge/-COURSERA-0077B5?style=for-the-badge&logo=COURSERA&logoColor=white)](https://www.coursera.org/user/0f216ddea486002dd0ba0fbe76e503b9) [![Pluralsight](https://img.shields.io/badge/-PLURALSIGHT-50C878?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/nathayoung)
 
 * Python for Analytics
 * Data for Visual Storytelling
