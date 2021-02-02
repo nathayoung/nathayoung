@@ -12,10 +12,6 @@
 *Senior Data Analyst* | Remote | NC Data Dashboard at Western Carolina University | May 2020 -> December 2020
 
 *Junior Data Analyst/Lead Project Developer* | Remote | NC Data Dashboard at Western Carolina Univeristy | August 2019 -> May 2020 
-* Designed new update methods to decrease time required for data updates from hours to minutes by writing automation scripts in Python utilizing Python Pandas to wrangle and publish data for use by the Tableau team
-* Collaborated with team members via Zoom to complete short-term projects, such as monthly workbook updates, and long-term projects, such as building new databases
-* Prioritized weekly tasks to ensure for balanced workload among classwork and other jobs
-* Delegated tasks to others to help build future leaders and create a strong work environment
 
 ***
 
