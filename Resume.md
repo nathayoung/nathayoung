@@ -31,7 +31,7 @@
 
 ### Skills
 
-* Python/R/SQL/SAS (Applied Data Science)
+* Python/R/SQL/C#
 * SQL Server Reporting Services
 * Tableau
 * Power BI
@@ -70,4 +70,4 @@ Leadership | National Outdoor Leadership School | July 2017
 ***
 To view additional experience and details, please view my LinkedIn profile.
 
-Current as of: *1 February 2021*
+Current as of: *21 February 2021*
