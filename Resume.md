@@ -51,6 +51,8 @@ Chancellor's List: Spring 2019, Spring 2020
 
 ### Education
 
+MBA Business Data Analytics | Mount Vernon Nazarene University | Beginning May 2021
+
 BSBA in Computer Information Systems | Western Carolina University | December 2020
 
 Leadership | National Outdoor Leadership School | July 2017
@@ -70,4 +72,4 @@ Leadership | National Outdoor Leadership School | July 2017
 ***
 To view additional experience and details, please view my LinkedIn profile.
 
-Current as of: *21 February 2021*
+Current as of: *27 February 2021*
