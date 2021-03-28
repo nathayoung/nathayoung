@@ -20,6 +20,7 @@
 
 [Automated Data Update](https://github.com/NC-Data-Dashboard)
 * Python scripts originating from Jupyter Notebooks that automatically pull and clean data for upload to NC Data Dashboard database for eventual use by Tableau team.
+* [Original Version](https://github.com/NC-Data-Dashboard/DataDashboard_Public) | [Current Working Version](https://github.com/nathayoung/DataDashboard_Windows)
 
 [Homeward Bound WNC Data Dashboard](https://www.linkedin.com/posts/arthursalido_sbtdc-wcu-homewardbound-activity-6684478453695188992-_kb1/)
 * Navigated, cleaned, and published data for Homeward Bound WNC in Tableau as part of CIS 370 (Tableau II/CIS Capstone) course work.
@@ -72,4 +73,4 @@ Leadership | National Outdoor Leadership School | July 2017
 ***
 To view additional experience and details, please view my LinkedIn profile.
 
-Current as of: *27 February 2021*
+Current as of: *28 March 2021*
