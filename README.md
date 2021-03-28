@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Hi, I'm Nathan Young.  Currently, I work as an IT Engineer at Nissin Brake, building reports with SSRS.
+Hi, I'm Nathan Young.  Currently, I work as an IT Engineer at Nissin Brake.
 
 [![Resume](https://img.shields.io/badge/-RESUME-2e2e2e?style=for-the-badge&logo=resume&logoColor=white])](https://github.com/nathayoung/nathayoung/blob/master/Resume.md)
 [![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
