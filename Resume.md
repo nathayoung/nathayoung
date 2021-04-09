@@ -13,7 +13,7 @@
 ### Relevant Certifications 
 * Tableau Desktop Specialist Certification | April 2020
 
-[![Acclaim](https://img.shields.io/badge/-ACCLAIM-0F4D92?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.youracclaim.com/users/nathayoung/badges)
+[![Credly](https://img.shields.io/badge/-CREDLY-FF6B00?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/nathayoung/badges) 
 ***
 
 ### Projects
