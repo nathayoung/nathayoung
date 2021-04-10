@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Hi, I'm Nathan Young.  Currently, I work as an IT Engineer at Hitachi Astemo, Findlay Ltd.
+Hi, I'm Nathan Young.  Currently, I work as an IT Engineer at Hitachi Astemo, Findlay Inc.
 
 [![Resume](https://img.shields.io/badge/-RESUME-2e2e2e?style=for-the-badge&logo=resume&logoColor=white])](https://github.com/nathayoung/nathayoung/blob/master/Resume.md)
 [![Credly](https://img.shields.io/badge/-CREDLY-FF6B00?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/nathayoung/badges)
