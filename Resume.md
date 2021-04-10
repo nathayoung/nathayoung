@@ -2,7 +2,7 @@
 
 ### Relevant Experience
 
-*IT Engineer* | Findlay, OH | Nissin Brake | January 2021 -> current 
+*IT Engineer* | Findlay, OH | Hitachi Astemo Findlay, Inc. | January 2021 -> current 
 
 *Senior Data Analyst* | Remote | NC Data Dashboard at Western Carolina University | May 2020 -> December 2020
 
