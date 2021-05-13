@@ -11,3 +11,4 @@ Feel free to check out any of the links below to learn more about me or see what
 [![Tableau](https://img.shields.io/badge/-TABLEAU-B7410E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/nathayoung#!/)
 [![Pluralsight](https://img.shields.io/badge/-PLURALSIGHT-50C878?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/nathayoung)
 [![Coursera](https://img.shields.io/badge/-COURSERA-0077B5?style=for-the-badge&logo=COURSERA&logoColor=white)](https://www.coursera.org/user/0f216ddea486002dd0ba0fbe76e503b9)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/nathayoung/)
